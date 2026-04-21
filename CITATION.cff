@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "BGEraser: Offline Background Removal for Research Presentations and Clinical Imagery"
+version: 1.0.0
+date-released: 2026-04-20
+authors:
+  - family-names: "Omar"
+    given-names: "M S"
+    orcid: "https://orcid.org/0009-0006-9198-3250"
+    affiliation: "Indiana University School of Dentistry"
+abstract: "BGEraser is an offline desktop application for removing image backgrounds in research, clinical, and educational workflows. It provides a controlled GUI over five deep-learning segmentation backbones (BiRefNet, ISNet, U2Net, U2Net Human, SILUETA) with alpha-matting controls, side-by-side preview, and transparent or solid-colour export. All processing is performed locally, making the tool suitable for sensitive or patient-identifiable imagery that cannot be uploaded to cloud services."
+license: MIT
+repository-code: "https://github.com/msherifomar/BGEraser"
+keywords:
+  - background removal
+  - image segmentation
+  - presentation tools
+  - clinical photography
+  - offline processing
+  - dental imaging
+  - educational materials
