@@ -1,5 +1,5 @@
 # BGEraser
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19673181.svg)](https://doi.org/10.5281/zenodo.19673181)
 **Offline, privacy-preserving background removal for research presentations, clinical imagery, and educational materials.**
 
 BGEraser is a desktop GUI that wraps the `rembg` library behind a controlled, reproducible workflow for academic and clinical users who cannot upload sensitive imagery to cloud services. It provides access to five segmentation backbones in a single interface, with alpha-matting controls for fine edges (hair, fabric, enamel margins, soft-tissue transitions), side-by-side preview, and direct export to PNG (transparent) or JPG (solid colour).
