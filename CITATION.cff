@@ -11,6 +11,7 @@ authors:
     affiliation: "Indiana University School of Dentistry"
 abstract: "BGEraser is an offline desktop application for removing image backgrounds in research, clinical, and educational workflows. It provides a controlled GUI over five deep-learning segmentation backbones (BiRefNet, ISNet, U2Net, U2Net Human, SILUETA) with alpha-matting controls, side-by-side preview, and transparent or solid-colour export. All processing is performed locally, making the tool suitable for sensitive or patient-identifiable imagery that cannot be uploaded to cloud services."
 license: MIT
+doi: 10.5281/zenodo.19673181
 repository-code: "https://github.com/msherifomar/BGEraser"
 keywords:
   - background removal
